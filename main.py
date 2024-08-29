@@ -105,4 +105,4 @@ if st.session_state.api_key:
         st.session_state.chat_history = []
         st.rerun()
 else:
-    st.warning("Please enter your OpenAI API key in the sidebar to proceed.")
+    st.warning("Please enter your OpenAI API key in the sidebar to proceed..")
