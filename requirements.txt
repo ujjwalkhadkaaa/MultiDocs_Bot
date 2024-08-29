@@ -6,7 +6,6 @@ langchain_experimental
 langchain_openai
 chromadb
 pypdf
-openpyxl
 unstructured
 python-docx
 openai
