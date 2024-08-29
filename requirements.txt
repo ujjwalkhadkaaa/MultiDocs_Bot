@@ -1,0 +1,14 @@
+streamlit
+langchain
+bs4
+langchain_community
+langchain_experimental
+langchain_openai
+chromadb
+pypdf
+openpyxl
+unstructured
+python-docx
+openai
+chroma
+tiktoken 
